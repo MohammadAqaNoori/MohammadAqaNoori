@@ -1,4 +1,6 @@
 ## Hi there 👋
+![JavaScript](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png)
+![React](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/react/react.png)
 
 <!--
 **MohammadAqaNoori/MohammadAqaNoori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
