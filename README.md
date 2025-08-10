@@ -43,4 +43,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MohammadAqaNoori&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=dev-abuhurera&label=PROFILE+VIEWS&style=flat-square&color=7d40ff" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
