@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+M+Aqa+Noori;Web+Developer;Problem+Solver;AIS+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+M+Aqa+Noori;Web+Developer;AI+Developer;Problem+Solver" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🛠 Turning Ideas into Code | ⚡ Full-Stack Innovator | 🌍 Future-Ready Problem Solver</h3>
