@@ -1,4 +1,5 @@
 ## Hi there 👋 This Aqa Noori
+https://github.com/dev-abuhurera#-building-scalable-apps---javascript-specialist---tech-explorer
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--
