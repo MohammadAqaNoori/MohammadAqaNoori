@@ -1,4 +1,21 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Abuhurera;Full-Stack+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Typing SVG" />
+</h1>
 
+<h3 align="center">💻 Building Scalable Apps | 🌟 JavaScript Specialist | 🚀 Tech Explorer</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240304586-218f11fa-42f4-4af1-9e0a-a2a8e8a7f4e9.gif" width="100%" />
+</p>
+
+---
+
+## ⚙️ Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,nestjs,mongodb,postgres,redis,docker,aws,gcp,tailwind,figma&perline=8" alt="Tech Stack" />
+  </a>
+</p>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mohammad Aqa Noori) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohammad Aqa Noori) 
 
